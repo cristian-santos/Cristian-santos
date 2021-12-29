@@ -13,6 +13,7 @@
 <code><img height="30" width="70" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="LINUX"/></code>
 <code><img height="30" width="70" src="https://github.com/caidevOficial/Resume/blob/main/media/icons/ubuntu/ubuntu-plain-wordmark.svg?raw=true" alt="UBUNTU"/></code>
 <code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg?raw=true" alt="LINUX"/></code>
+<code><img align="center" alt="Cristian-PHP" height="30" width="70" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white"></code>
 
 ## Noções
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
