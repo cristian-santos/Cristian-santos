@@ -17,7 +17,7 @@
 <code><img align="center" alt="codeigniter" height="30" width="70" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white"></code>
 
 ## Noções
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://www.google.com/search?q=imagens+js&sxsrf=AOaemvK6s7GCFnd7Uasb6nVWcQCZbGrhSg:1641259570898&tbm=isch&source=iu&ictx=1&fir=aMQ9uGwrmHigLM%252CSnG9SGQ8S6bZoM%252C_%253BxgRNnw40nkka5M%252CJrNzzUIsqEK-EM%252C_%253Bt0OZMYolHCS5cM%252CqIe4PYNqiVUbhM%252C_%253BMO5QBrz_PT3gKM%252CJDDJMDJQBJ7azM%252C_%253Bh89LAtK_y7zUzM%252CqIe4PYNqiVUbhM%252C_%253BxgOgY8Y0ujEbZM%252CsfCSW9zT8CoOUM%252C_%253BAJ6NtAPxMi299M%252CdHpT8Q1YCmwhvM%252C_%253Bn4_IlhgQCERGTM%252CJDDJMDJQBJ7azM%252C_%253BoWtbBhnhJ8HFTM%252Cazh67Tmansq3hM%252C_%253BNCMoh1KzNnN5ZM%252CGl9M0ou3iTFVCM%252C_&vet=1&usg=AI4_-kT5ib66H2_R52qeWarAaoZ5Nz9PaQ&sa=X&ved=2ahUKEwikhNSt-Jb1AhXPFbkGHRCnDNcQ9QF6BAgHEAE#imgrc=xgRNnw40nkka5M" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="PYTHON"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="JAVA"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
