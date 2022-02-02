@@ -39,7 +39,7 @@
   <a href="cristiansantosti@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="linkedin.com/in/josé-cristian-santos-santana-8599621b3" alt="Linkedin">
+  <a href="https://www.linkedin.com/mwlite/in/jos%C3%A9-cristian-santos-santana-8599621b3" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/josé-cristian-santos-santana-8599621b3"/></a>
 
   <a href="https://www.instagram.com/josecristian115/" alt="Instagram">
