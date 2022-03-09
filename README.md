@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-💜👨🏼‍💻 Olá, me chamo <strong>Cristian Santos</strong>. Sou <strong>estagiário</strong> em desenvolvimento web!
+💜👨🏼‍💻 Olá, me chamo <strong>Cristian Santos</strong>. Sou <strong>estagiário</strong> de suporte e iniciante no desenvolvimento web!
 
 ## 🚀 Principais áreas de conhecimento
 <code><img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
