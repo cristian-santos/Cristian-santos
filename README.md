@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/mwlite/in/jos%C3%A9-cristian-santos-santana-8599621b3" alt="Linkedin">
-  <img src="https://camo.githubusercontent.com/606fc81fb7caac796f75591642379477d1172c541a9d088647aaacb1dd458090/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465/></a>
+  <img src="https://camo.githubusercontent.com/606fc81fb7caac796f75591642379477d1172c541a9d088647aaacb1dd458090/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465"></a>
 
   <a href="https://www.instagram.com/josecristian115/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
