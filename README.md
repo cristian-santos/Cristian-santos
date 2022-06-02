@@ -1,45 +1,40 @@
+### Olá! me chamo Cristian Santos. Sou desenvolverdor web jr.
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+## Tecnologias que uso no meu dia
 
-💜👨🏼‍💻 Olá, me chamo <strong>Cristian Santos</strong>. Sou <strong>estagiário</strong> de suporte e iniciante no desenvolvimento web!
+<div style="display: inline_block"><br>
 
-## 🚀 Principais áreas de conhecimento
-<code><img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+  <img align="center" alt="PHP" src="	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</div><br>
 
-## Ferramentas
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></code>
-<code><img height="30" width="70" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="LINUX"/></code>
-<code><img height="30" width="70" src="https://github.com/caidevOficial/Resume/blob/main/media/icons/ubuntu/ubuntu-plain-wordmark.svg?raw=true" alt="Ubuntu"/></code>
-<code><img height="32" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg?raw=true" alt="LINUX"/></code>
-<code><img align="center" alt="codeigniter" height="30" width="70" src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white"></code>
-<code><img align="center" alt="Laravel" height="45" width="100" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg"></code>
+## Ferramentas que possuo conhecimento
+
+<div style="display: inline_block"><br>
+<img align="center" alt="Git" src="https://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white">
+<img align="center" alt="Git" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+  
+</div><br>
 
 ## Noções
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="PYTHON"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="JAVA"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<div style="display: inline_block"><br>
+<img align="center" alt="Git" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+</div><br>
 
-## 🚀 Estou estudando
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+## Informações sobre minha conta GitHub
 
-## ⭐ Informações sobre minha conta GitHub
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian-santos&show_icons=true&theme=dracula)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-santos&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-santos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cristian-santos&show_icons=true&theme=dracula)
-
-## 💌 Entre em contato comigo ⤵️
-  <a href="cristiansantosti@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
-
-  <a href="https://www.linkedin.com/mwlite/in/jos%C3%A9-cristian-santos-santana-8599621b3" alt="Linkedin">
-  <img src="https://camo.githubusercontent.com/606fc81fb7caac796f75591642379477d1172c541a9d088647aaacb1dd458090/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564696e2d3065373661383f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465"></a>
-
-  <a href="https://www.instagram.com/josecristian115/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>  
+## Entre em contato comigo
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/jos%C3%A9-cristian-santos-santana-8599621b3)
+[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josecristian115/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](cristiansantosti@gmail.com)
