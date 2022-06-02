@@ -1,4 +1,4 @@
-# Olá! me chamo Cristian Santos 🖐️ . Sou desenvolverdor web jr.
+# Olá! me chamo Cristian Santos 🖐️
 
 ## Tecnologias que uso no meu dia
 
