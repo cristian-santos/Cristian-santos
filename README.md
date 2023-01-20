@@ -16,7 +16,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristian-santos&show_icons=true&theme=dracula)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-santos&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 ## 🛠️ Ferramentas que possuo conhecimento
 
 <div style="display: inline_block">
@@ -27,7 +26,8 @@
 <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 </div><br>
 
-
 ## Meus projetos
-- <a href="https://drive.google.com/file/d/1_B8erujS_H8QFf1XfaIFXZpqWpkAEny1/viewusp=share_link">App donations</a>
-- <a href="cristiansantos.epizy.com">landing page</a>
+- [App donations](https://drive.google.com/file/d/1_B8erujS_H8QFf1XfaIFXZpqWpkAEny1/viewusp=share_link)
+- [Landing page](http://cristiansantos.epizy.com/)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-santos&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
