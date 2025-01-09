@@ -28,6 +28,6 @@
 
 ## Meus projetos
 - [App donations](https://drive.google.com/file/d/1_B8erujS_H8QFf1XfaIFXZpqWpkAEny1/viewusp=share_link)
-- [Landing page](http://cristiansantos.epizy.com/)
+- [Portfólio](http://cristiansantos.epizy.com/)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristian-santos&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
